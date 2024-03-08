@@ -29,3 +29,4 @@ Show the number of primes and their percentage in that range.
 To-do list:
 
 ⬜️Fix the text.
+⬜️More error controls.
