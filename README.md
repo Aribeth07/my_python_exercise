@@ -8,7 +8,7 @@ baseConv.py:
 
 Ask the user to input a decimal number, convert it to binary/octal/hexadecimal, and vice-versa.
 
-When converting non-decimal numbers, prefixes should be appended (0b, 0o, 0x).
+When converting non-decimal numbers, prefixes should be added (0b, 0o, 0x).
 
 To-do list:
 
