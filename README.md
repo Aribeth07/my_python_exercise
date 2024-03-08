@@ -1,2 +1,2 @@
 # my_python_exercise
-Simple projects I worked on 
+Simple projects that I worked on 
