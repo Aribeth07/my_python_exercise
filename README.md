@@ -12,11 +12,11 @@ When converting non-decimal numbers, prefixes should be added (0b, 0o, 0x).
 
 To-do list:
 
-⬜️Fix the text.
+⬜Fix the text.
 
 ✅Print the result without prefixes.
 
-## List Prime Numbers from a Given Range of Numbers
+## List Prime Numbers from a Given Range
 
 primeList.py:
 
@@ -28,5 +28,6 @@ Show the number of primes and their percentage in that range.
 
 To-do list:
 
-⬜️Fix the text.
-⬜️More error controls.
+⬜Fix the text.
+
+⬜More error controls.
