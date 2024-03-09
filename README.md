@@ -14,7 +14,7 @@ To-do list:
 
 ⬜️Fix the text.
 
-⬜️Print the result without prefixes.
+✅Print the result without prefixes.
 
 ## List Prime Numbers from a Given Range of Numbers
 
