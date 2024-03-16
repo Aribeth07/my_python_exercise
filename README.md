@@ -31,3 +31,17 @@ To-do list:
 ⬜Fix the text.
 
 ⬜More error controls.
+
+## JPY to CNY Converter
+
+yen.py:
+
+Convert Japanese Yen to Chinese RMB.
+
+Two approximated results are print out, along with the "precise result" and differences between those values.
+
+The "precise result" may vary with exchange rate.
+
+To-do list:
+
+⬜Fetch the real-time exchange rate automatically.
