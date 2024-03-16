@@ -13,7 +13,7 @@ def dollar(n):
 def simp(n):
     return n / 20
 
-def real(n):
+def real(n): # varies over time
     return n / 20.41
 
 while True:
