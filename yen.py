@@ -8,13 +8,13 @@ def main():
     print("Simple algorithm bias: ", simp(x)-real(x))
 
 def dollar(n):
-    return 7 * n / 150
+    return n*7 / 150
 
 def simp(n):
     return n / 20
 
 def real(n): # varies over time
-    return n / 20.41
+    return n / 21.81
 
 while True:
     if __name__ == "__main__":
